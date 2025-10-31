@@ -28,7 +28,7 @@ A **responsive Spotify-style music streaming interface** built using **HTML**, *
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 If you want to test the project on your own computer:
 
